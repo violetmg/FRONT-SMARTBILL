@@ -8,7 +8,7 @@ const Sidebar = () => {
      { id: "admin", icon: "fa-solid fa-user-tie", text: "Administracion", path: "/admin" },
     { id: "nueva-factura", icon: "fas fa-file-invoice", text: "Nueva Factura", path: "/" },
     { id: "administrar-facturas", icon: "fas fa-file-invoice-dollar", text: "Administrar Facturas", path: "/administrar-facturas" },
-    { id: "reportes", icon: "fas fa-chart-bar", text: "Reportes de Facturas", path: "/reportes" },
+    { id: "reporteFacturas", icon: "fas fa-chart-bar", text: "Reportes de Facturas", path: "/reporteFacturas" },
     { id: "productos", icon: "fas fa-box", text: "Productos", path: "/productos" },
     { id: "clientes", icon: "fas fa-users", text: "Clientes", path: "/clientes" },
     { id: "usuarios", icon: "fas fa-user-shield", text: "Usuarios", path: "/usuarios" },
